@@ -1,0 +1,18 @@
+{
+    "name": "bdryagya/utils",
+    "description": "Utilities",
+    "type": "Library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yagya Chaudhary",
+            "email": "mail@bdryagya.com.np"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Bdryagya\\Utils\\": "src/"
+        }
+    },
+    "require": {}
+}
